@@ -1,5 +1,5 @@
-HOSTNAME= inventoryhostname
-MEMORY= memory_in_MB
-BIOS= BIOS_version
-DISK_SIZE_SDA= disk_sda_size
-DISK_SIZE_SDB= disk_sdb_size
+INVENTORY_HOSTNAME: hostname
+BIOS_VERSION: biosversion
+TOTAL_MEMORY: memory
+VDA_SIZE: vdasize
+VDB_SIZE: vdbsize
